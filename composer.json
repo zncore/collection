@@ -10,7 +10,7 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    
+    "doctrine/collections": "2.0.x-dev"
   },
   "autoload": {
     "psr-4": {
