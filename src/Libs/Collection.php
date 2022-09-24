@@ -4,6 +4,9 @@ namespace ZnCore\Collection\Libs;
 
 use ZnCore\Collection\Interfaces\Enumerable;
 
+/**
+ * Коллекция сущностей
+ */
 class Collection extends \Doctrine\Common\Collections\ArrayCollection implements Enumerable
 {
 
